@@ -1,1 +1,1 @@
-Various Arduino Nano experiments on water salinity 
+* Various Arduino experiments on different hw *
